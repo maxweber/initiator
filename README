@@ -1,0 +1,15 @@
+# initiator
+
+The initiator searchs in namespaces for variables (e.g. functions)
+which has the specified metadata entry. Only namespaces with the
+{:initiator true} metadata entry are included in the search.
+
+## Usage
+
+
+
+## License
+
+Copyright (C) 2011 Maximilian Weber
+
+Distributed under the Eclipse Public License, the same as Clojure.
